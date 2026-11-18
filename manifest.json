@@ -1,0 +1,9 @@
+[
+  {
+    "name": "AutoSwitch",
+    "description": "Adds a topbar control button to automatically queue or live-sync songs played by a selected friend in your Friend Activity sidebar.",
+    "preview": "preview.png",
+    "main": "friend-auto-queue.js",
+    "readme": "README.md"
+  }
+]
