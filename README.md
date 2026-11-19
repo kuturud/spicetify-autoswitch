@@ -1,10 +1,10 @@
-# 👥 Friend Auto-Queue & Sync
+# 👥 Spotify Auto-Switch
 
 <p align="center">
   <img src="preview.png" alt="Friend Auto-Queue Interface Preview" width="450">
 </p>
 
-Friend Auto-Queue is a native Spicetify extension that monitors your Spotify Friend Activity sidebar and automatically mirrors your friends' listening sessions. It adds a seamless control button directly to your upper topbar layout next to the Marketplace icon, letting you either auto-queue tracks as they play or instantly sync and jump straight to whatever song your target friend is listening to.
+uto-Switch is a native Spicetify extension that monitors your Spotify Friend Activity sidebar and automatically mirrors your friends' listening sessions. It adds a seamless control button directly to your upper topbar layout next to the Marketplace icon, letting you either auto-queue tracks as they play or instantly sync and jump straight to whatever song your target friend is listening to.
 
 ## ✨ Features
 
